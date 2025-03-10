@@ -1,0 +1,21 @@
+{
+  "name": "docs-markdown-server",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "googleapis": "^128.0.0",
+    "highlight.js": "^11.11.1",
+    "jsdom": "^26.0.0",
+    "marked": "^9.1.6"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
