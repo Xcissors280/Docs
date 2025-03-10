@@ -1,4 +1,5 @@
 I made a simple server to render google docs as a nice documentation page
+you can try it now at https://docs.atserver.us or self host it using the instructions below
 
 first make a google api service account and put its credentials.json file in the main directory
 you might have to change the service account email adress in the html if is isnt automatic
