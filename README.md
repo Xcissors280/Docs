@@ -5,3 +5,9 @@ you might have to change the service account email adress in the html if is isnt
 then set your default document id in .env and server port in .env and server.us
 
 finally install packages with npm install and start the server with npm start
+
+to use the app just go to localhost:port or the domain you configured
+if you want to use a diffrent document just use url/documentid or put the link or id in the field under more options
+make sure all documents are properly shared with the serivce account
+
+now im working on a better ui, full markdown rendering, and maybe native docs rendering
